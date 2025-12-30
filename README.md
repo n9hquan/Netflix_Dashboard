@@ -48,6 +48,7 @@ To explore the dashboard:
 │  └─ Netflix_analysis_2025.pdf
 │  └─ Netflix_analysis_2025.jpg
 └─ README.md
+```
 
 ## Contact
 
