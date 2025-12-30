@@ -39,14 +39,14 @@ To explore the dashboard:
 
 ```text
 .
-├─ Netflix_analysis_2025.pbix
-├─ data/
-│  └─ movies.csv
 ├─ assets/
 │  └─ netflix_icon.jpg
+├─ dataset/
+│  └─ movies.csv
 ├─ report/
-│  └─ Netflix_analysis_2025.pdf
 │  └─ Netflix_analysis_2025.jpg
+│  └─ Netflix_analysis_2025.pdf
+├─ Netflix_analysis_2025.pbix
 └─ README.md
 ```
 
