@@ -14,7 +14,7 @@ This project provides an analysis of Netflix content released in **2025**, focus
 - The **average movie rating is 6.31**, suggesting most Netflix movies fall into a mid-quality range rather than extreme highs or lows.
 - **Biography, Comedy, and Adventure** are the most released genres, while Action and Documentary also maintain strong presence, reflecting a balance between entertainment and informational content.
 - Movies rated **TV-Y, G, and TV-Y7** account for a high number of releases, highlighting Netflix’s emphasis on family-friendly and youth-oriented content.
-- While multiple countries contribute to the catalog, production is heavily concentrated in the US. This highlights Netflix's strategy of using American-made content as the core engine to drive global viewership.
+- While multiple countries contribute to the catalog, production is heavily concentrated in the **United States**. This highlights Netflix's strategy of using American-made content as the core engine to drive global viewership.
 - Although fewer in number, some countries achieve **higher average movie durations**, suggesting regional differences in storytelling formats.
 - Movie releases and box office revenue show **seasonal variation**, with noticeable peaks in early-year and mid-year months.
 
